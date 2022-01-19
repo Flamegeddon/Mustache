@@ -1,7 +1,7 @@
 noseX = 0;
 noseY = 0;
 function preload(){
-    clone_nose = loadImage('https://i.postimg.cc/Hx9zM5Wk/Yes-removebg-preview.png');
+    clone_nose = loadImage('https://i.postimg.cc/3x3QzSGq/m.png');
 }
 function setup(){
     canvas = createCanvas(300, 300);
